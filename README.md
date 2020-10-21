@@ -2,6 +2,13 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Screenshots
+!["about page"](https://github.com/mariakhandaker/jungle/blob/master/jungle%20images/about%20page.png)
+!["admin categories page"](https://github.com/mariakhandaker/jungle/blob/master/jungle%20images/admin%20all%20categories.png)
+!["admin products page"](https://github.com/mariakhandaker/jungle/blob/master/jungle%20images/admin%20all%20products.png)
+!["admin create new product"](https://github.com/mariakhandaker/jungle/blob/master/jungle%20images/admin%20new%20product.png)
+!["admin create new category"](https://github.com/mariakhandaker/jungle/blob/master/jungle%20images/admin_new_category.png)
+!["apparel category with sold out badge"](https://github.com/mariakhandaker/jungle/blob/master/jungle%20images/apparel%20category%20with%20sold%20out%20badge%20over%20sold%20out%20item.png)
 
 ## Setup
 
