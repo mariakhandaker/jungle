@@ -43,7 +43,7 @@ RSpec.describe User, type: :model do
       test_user.save
       test_user_two = User.new(name: 'Lacey Evil twin', email: 'laceyisadog@gmail.com', password: 'password', password_confirmation: 'password')
       test_user_two.save
-      expect(test_user.errors.messages).to include("email already exist")
+      expect(test_user.errors.messages).to include("email already exists")
     end
 
   end
